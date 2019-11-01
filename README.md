@@ -7,6 +7,10 @@ This is the github repositiory of the 2-day workshop on single-cell RNA-seq data
 Demo dataset comes originally from 10X Genomics, available in various formats here: https://support.10xgenomics.com/single-cell-gene-expression/datasets/1.2.0/pbmc4k
 The demo dataset of the tutorial is made available via Gigamove (link works until 11/11/19): https://gigamove.rz.rwth-aachen.de/d/id/xDALfiSFawCCcz
 
+## Introduction to differential tests
+
+Tutorials are found in https://github.com/theislab/diffxpy_tutorials.
+
 ## Introduction to velocities
 
 Here, we work on the dynamical velocity model of Bergen et al. on bioRxiv (https://www.biorxiv.org/content/10.1101/820936v1)
