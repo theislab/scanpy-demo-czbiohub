@@ -15,7 +15,7 @@ Tutorials are found in https://github.com/theislab/diffxpy_tutorials.
 
 Here, we work on the dynamical velocity model of Bergen et al. on bioRxiv (https://www.biorxiv.org/content/10.1101/820936v1)
 Please follow the link to the package: https://github.com/theislab/scvelo
-We will use the following demo notebooks: https://scvelo-notebooks.readthedocs.io/DentateGyrus.html and https://scvelo-notebooks.readthedocs.io/Pancreas.html
+We will use the following demo notebooks: https://scvelo-notebooks.readthedocs.io/DentateGyrus.html and https://scvelo-notebooks.readthedocs.io/Pancreas.html or as jupyter notebooks https://github.com/theislab/scvelo_notebooks/blob/master/DentateGyrus.ipynb and https://github.com/theislab/scvelo_notebooks/blob/master/Pancreas.ipynb.
 
 ## Google doc for questions
 https://docs.google.com/document/d/1t4qFcVByExVxEtN7FUHtuDqObVzrSCfs92mQRgJXBEM/edit?usp=sharing
