@@ -11,5 +11,5 @@ The demo dataset of the tutorial is made available via Gigamove (link works unti
 
 Here, we work on the dynamical velocity model of Bergen et al. on bioRxiv (https://www.biorxiv.org/content/10.1101/820936v1)
 Please follow the link to the package: https://github.com/theislab/scvelo
-We will use the following demo notebook: https://scvelo-notebooks.readthedocs.io/DentateGyrus.html
+We will use the following demo notebooks: https://scvelo-notebooks.readthedocs.io/DentateGyrus.html and https://scvelo-notebooks.readthedocs.io/Pancreas.html
 
