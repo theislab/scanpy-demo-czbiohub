@@ -17,3 +17,5 @@ Here, we work on the dynamical velocity model of Bergen et al. on bioRxiv (https
 Please follow the link to the package: https://github.com/theislab/scvelo
 We will use the following demo notebooks: https://scvelo-notebooks.readthedocs.io/DentateGyrus.html and https://scvelo-notebooks.readthedocs.io/Pancreas.html
 
+## Google doc for questions
+https://docs.google.com/document/d/1t4qFcVByExVxEtN7FUHtuDqObVzrSCfs92mQRgJXBEM/edit?usp=sharing
